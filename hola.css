@@ -1,0 +1,30 @@
+body{
+    background-color: gray;
+
+}
+
+
+h1{
+
+    color: white;
+    font-size: 60px;
+   
+}
+
+ul{
+    color: white;
+}
+
+ol{
+
+    color: white;
+}
+
+h2, h3, h4{
+
+    color: white;
+}
+
+details{
+    color: white;
+}
